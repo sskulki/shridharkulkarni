@@ -124,28 +124,4 @@ twitter_username: shridharAI4
 github_username: sskulki
 linkedin_username: shridhar-s-kulkarni
 
-#pagination
-gems:
-  - jekyll-paginate
 
-paginate: 5
-paginate_path: /page:num/
-
-paginate_multiple:
-  - paginate: 10
-    paginate_path: /page:num/'
-    sub_dir: '/projects'
-  - paginate: 10
-    paginate_path: '/page:num/'
-    sub_dir: '/reads'
-
-  # -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/  
-  reads:
-    output: true
-    permalink: /reads/:path/
