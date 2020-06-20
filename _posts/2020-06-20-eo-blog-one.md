@@ -23,12 +23,12 @@ Earth observations (EO) are data and information about the planet’s physical, 
 
 On the other hand, AI is an area of computer science devoted to developing systems that can learn (from data) to make decisions and predictions within specific contexts. Indeed, AI technology can extract more in-depth insights from datasets than other techniques. Over recently, AI has been used with success in solving complex problems in several domains such as machine translation, computer vision, autonomous cars, to mention a few. Machine learning and specifically, computer vision models provide explicitly useful and practical approaches for analyzing and extracting relevant information from EO imagery data. Recently deep learning models and specifically Convolution Neural Networks (CNNs) have proven effective in several computer vision tasks such as object detection, classification, and video processing, image generations, and image captioning, to mention a few. These models could be applied to detect and classify objects from complex EO imagery at a larger scale. Figure 2 presents AI capability for object detection and using computer vision techniques for multiband satellite images. This image has been taken from [here](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/raster-bands.htm)).
 
-![]({{ site.baseurl }}/images/eo-posts/EO_AI.png)
+![]({{ site.baseurl }}/images/EO_AI.png)
 
 
 Applying these techniques to EO data will make it easy to efficiently automate the recognition of known and unknown patterns at large-scale. This is likely to reveal useful insights and opportunities for addressing sustainability challenges. For example, AI models could be applied to perform automated change detection, crop mapping, and yield estimation from high-resolution imagery in a larger-scale. The fusion of EO data and other data sources such as geo-referenced, demographics, and social-network data can be used to facilitate the more targeted developmental challenge. For instance, it has been demonstrated that the AI model can be used to predict the poverty level by analyzing satellite imagery, night lights, and demographic data.  Figure below shows the different application domains of EO.Image has been taken from [here](https://www.sentinel-hub.com/) and [here](https://www.agrilinks.org/post/enhancing-earth-observation-solutions-agriculture-machine-learning)
 
-![]({{ site.baseurl }}/images/eo-posts/Applications_2.png)
+![]({{ site.baseurl }}/images/Applications_2.png)
      
 
 
@@ -68,7 +68,7 @@ The [Spacenet](https://spacenet.ai/datasets/), on the other hand, provides acces
 
 [Kaggle](https://www.kaggle.com), a world's largest data science community with powerful tools and resources, is another source of EO training datasets which host several machine learning challenges EO imagery. This challenges includes [Dstl Satellite Imagery Feature Detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection), [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection) and [Draper Satellite Image Chronology](https://www.kaggle.com/c/draper-satellite-image-chronology) to mention a few.
 
-![]({{ site.baseurl }}/images/eo-posts/ai_ready.png)
+![]({{ site.baseurl }}/images/ai_ready.png)
 
 
 ### API for accessing EO  data.
