@@ -1,7 +1,7 @@
 ---
-title: AI4EO-An Opportunity for Computation Sustainability
+title: "AI4EO-An Opportunity for Computation Sustainability"
 description: This post introduces how Earth Observation (EO), EO data sources and how EO  and Artificial Intelligence (AI) could be used for Computational Sustainability.
-toc: false
+toc: true
 comments: true
 layout: post
 categories: [Machine learning, Deep learning,  Eearth observation]
@@ -9,7 +9,8 @@ image: images/post/eo.jpg
 author: Anthony Faustine & Shridhar Kulkarni
 ---
 
-## Introduction
+# AI4EO-An Opportunity for Computation Sustainability
+# Introduction
 
 Computational Sustainability focuses on developing computational models, methods, and tools to help policymakers design more effective solutions and policies for sustainable development. The advancement of Information and Communication Technologies (ICT), particularly Earth Observation (EO) and Artificial intelligence (AI) offer prospects of addressing sustainability challenges.A more in-depth explanation about the above project can be viewed in this video:
 A more in-depth explanation about the above project can be viewed in this video:
