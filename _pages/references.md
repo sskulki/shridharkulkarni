@@ -1,5 +1,5 @@
 ---
 layout: page
-title: references
+title: References
 permalink: /references/
 ---
