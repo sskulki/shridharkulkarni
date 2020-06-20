@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I’m a Data Scientist an currently working at CeADAR, Ireland. My Interests include statistics, data analysis, programming in python. My work focuses on developing tools, techniques and technologies for the industries to use AI. I effectively use research techniques for novel approaches to problems and develop prototypes to assess their viability. Although I am a person who takes the initiative, he has a strong team-work spirit with experience of working in a highly international environment.
+I’m a Data Scientist currently working at CeADAR, Ireland. My Interests include statistics, data analysis, programming in python. My work focuses on developing tools, techniques and technologies for the industries to use AI. I effectively use research techniques for novel approaches to problems and develop prototypes to assess their viability. Although I am a person who takes the initiative, he has a strong team-work spirit with experience of working in a highly international environment.
 
 I have total eight years of experience in IT industry. I have a MSc degree in Data Analytics from the National College of Ireland in January 2019. With a good amount of experience and master’s degree in hand has given me an opportunity to gain essential AI skills and I keep myself updated by learning different technologies.
 
