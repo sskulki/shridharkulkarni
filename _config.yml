@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Shridhar Kulkarni
-description: A DATA SCIENTIST.
+description: @2020: sskulki@gmail.com.
 github_username: sskulki
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "sskulki"
@@ -38,9 +38,9 @@ baseurl: "/shridharkulkarni" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links:
-    twitter: fastdotai
-    github: fastai
+  #social_links:
+    #twitter: fastdotai
+    #github: fastai
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -55,7 +55,7 @@ show_image: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: UA-57531313-5
+google_analytics:
 
 exclude:
   - docker-compose.yml
@@ -123,5 +123,3 @@ email: sskulki@gmail.com
 twitter_username: shridharAI4
 github_username: sskulki
 linkedin_username: shridhar-s-kulkarni
-
-
