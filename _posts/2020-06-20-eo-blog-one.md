@@ -5,7 +5,7 @@ toc: true
 comments: true
 layout: post
 categories: [Machine learning, Deep learning,  Eearth observation]
-image: images/EO-blog-one-banner.png
+image: images/EO-blog-one-banner.jpg
 author: Anthony Faustine & Shridhar Kulkarni
 ---
 
