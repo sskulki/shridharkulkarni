@@ -28,7 +28,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 ```
 ## Data
-The data contains google news notifications extracted from dataset. The sentimental analysis has been performed on this dataset using EmPushy docker preprocessing image, 1 being postive and -1 being negative sentiments. Let's import the dataset and see few rows of data.
+The data contains google news notifications extracted from dataset. The sentimental analysis has been performed on this dataset using [EmPushy docker preprocessing image](https://empushy.com/login.html), 1 being postive and -1 being negative sentiments. Let's import the dataset and see few rows of data.
 ```
 data = pd.read_csv('google_news_dataset_up.csv')
 data.head()
