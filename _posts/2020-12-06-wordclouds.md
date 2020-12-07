@@ -198,5 +198,7 @@ def wc(data,bgcolor,title, mask):
     plt.savefig('data_ps_white.jpg')
  ```
  
- ### References 
+ ### References
+ 
 - [EmPushy data processing](https://empushy.com/)
+- [Tutorial Point](https://www.tutorialspoint.com/create-word-cloud-using-python)
