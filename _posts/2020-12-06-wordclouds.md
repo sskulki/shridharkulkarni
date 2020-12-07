@@ -198,6 +198,9 @@ def wc(data,bgcolor,title, mask):
     plt.savefig('data_ps_white.jpg')
  ```
  
+ ### Conclusion
+As demonstrated we can create word clouds of any shape using masks which are great and effective of visualisation.
+ 
  ### References
  
 - [EmPushy data processing](https://empushy.com/)
