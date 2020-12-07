@@ -5,7 +5,7 @@ toc: true
 comments: true
 layout: post
 categories: [Machine learning, Deep learning,  visualizations]
-image: images/EO-blog-one-banner.jpg
+image: images/wordclouds_thumbsup.png
 author: Shridhar Kulkarni
 ---
 # Creating Word Clouds of Various Shapes
