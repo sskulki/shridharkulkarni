@@ -1,3 +1,25 @@
+
+# Study Materials
+## Feature Extraction Techniques
+1. https://ppiconsulting.dev/blog/blog29/
+2. 
+
+## AutoEncoders
+1. https://medium.com/@weidagang/demystifying-anomaly-detection-with-autoencoder-neural-networks-1e235840d879
+2. https://www.datacamp.com/tutorial/introduction-to-autoencoders?dc_referrer=https%3A%2F%2Fwww.google.com%2F
+
+
+
+
+
+
+
+
+
+
+
+
+
 [//]: # (BADGES SECTION: change `fastai` with your GitHub username and `fastpages` with the name of your repo)
 
 ![](https://github.com/fastai/fastpages/workflows/CI/badge.svg)
